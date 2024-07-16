@@ -30,7 +30,11 @@ python repo2text.py https://github.com/cyberfascinate/ISC2-CC-Study-Material
 ```
 * review the output file `output.txt`
 
-* upload the file to OpenAI Playground, Assistant
+* create a new assistant and upload the file to OpenAI Playground, Assistant
+
+OpenAI Playground: https://platform.openai.com/playground/assistants
+
+**You must be a payment user (or you paied at least once), then you can access OpenAI Assistant.**
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/17487d2a-3994-4a4d-a110-1c360e28dfd3">
 
