@@ -34,7 +34,7 @@ python repo2text.py https://github.com/cyberfascinate/ISC2-CC-Study-Material
 
 OpenAI Playground: https://platform.openai.com/playground/assistants
 
-**You must be a payment user (or you paied at least once), then you can access OpenAI Assistant.**
+**You need to be a paying user (or have made at least one payment) to access the OpenAI Assistant.**
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/17487d2a-3994-4a4d-a110-1c360e28dfd3">
 
