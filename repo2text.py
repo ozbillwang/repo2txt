@@ -26,6 +26,7 @@ def fetch_repo_contents(repo_url, token):
             contents = response.json()
             for item in contents:
                 if item['type'] == 'file':
+                    print(item['path'])
                     # Fetch file content if it's not a binary file (ignore images and other binaries)
                     if 'download_url' in item and not is_binary_file(item['download_url']):
                         file_url = item['download_url']
